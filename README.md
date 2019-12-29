@@ -1,0 +1,2 @@
+# takakaya.github.io
+Myblog
