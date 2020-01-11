@@ -3,8 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
 
-  <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
+  <title>{% if page.use-site-title %}{{ site.title }} {% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <!-- {{ site.title-separator }} {{ site.description }} -->
   <meta name="author" content="{{ site.author.name }}" />
 
   {% if page.subtitle %}
@@ -13,6 +13,9 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}" />
 
+  <!-- add favicon to website -->
+  <link rel="shortcut icon" type="image/x-icon" href="..\img\favicon.ico">
+  
   {% include gtag.html %}
   {% include gtm_head.html %}
   {% include google_analytics.html %}
