@@ -23,7 +23,7 @@ Kẹp một từ ở đầu và cuối bằng ký tự * để in nghiêng, 2 k�
 ## ***Link***
 
 Viết link trong markdown bằng cách cho alt text vào trong ngoặc vuông và link thật vào trong ngoặc đơn (). Ví dụ:
-[TakaKaya](https://takakaya.github.io)
+[TakaKaya](http://algotdc.tk)
 
 ## ***Hình ảnh***
 

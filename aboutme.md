@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is SonTDc.
+My name is AlgoTDc.
 
 - Nothing about me
 - hehe

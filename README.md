@@ -1,2 +1,2 @@
-# takakaya.github.io
+# My Blog or Notebook ^^
 
