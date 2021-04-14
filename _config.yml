@@ -11,7 +11,7 @@ description: "Manage for my future"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://algotdc.tk"
+url: "http://mediumvn.tk"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,13 +20,14 @@ url: "http://algotdc.tk"
 
 # List of links in the navigation bar
 navbar-links:
-  Topic:
-    - Algorithms: ""
-  Tran Duc Son: "aboutme"
+  Chủ đề:
+    - Thuật toán: ""
+    - Học máy: ""
+    - Mạng neural: ""
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/mario-avatar.png"
+avatar: "/img/mediumico/iconfinder_Medium_3721675.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -66,9 +67,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "wnos278@gmail.com"
-  #facebook: wnos278
-  github: wnos278
+  email: "yui.ai.imagine@gmail.com"
+  github: mediumvn
 
 # Select which share links to show in posts
 share-links-active:
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "http://algotdc.tk"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "http://mediumvn.tk"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
